@@ -16,3 +16,7 @@ export PATH
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
+
+alias k=kubectl
+alias mutt=neomutt
+
